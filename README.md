@@ -23,4 +23,4 @@ count the number of 1, 9, -10 in the list
 determine which index element 7 has in the list
 check if there are -2, -10 in the list
 sort the list 
-expand the sorted list
+reverse the sorted list
